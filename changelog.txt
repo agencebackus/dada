@@ -1,0 +1,27 @@
+*** FlyCoffee HTML - Changelog ***
+
+2016.01.11 - version 1.0.2
+-minor changes for window resize for header type 2
+	js/general.js
+-validation for Contact Form and Reservation
+	js/general.js
+
+2015.10.28 - version 1.0.1
+- minor changes for send reservation form
+	index2.html
+	menu.html
+	news-details.html
+	news.html
+	offers-details.html
+	offers.html
+	photo.html
+	reservation.html
+	send-reservation.php
+	story.html
+- minor fixed for responsive
+	js/general.js
+	css/style.css
+	index.html
+
+2015.10.20 - version 1.0
+- First release!
